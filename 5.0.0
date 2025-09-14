@@ -1,0 +1,7 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: jupyter-packaging in d:\ai4science\.venv\lib\site-packages (0.12.3)
+Requirement already satisfied: deprecation in d:\ai4science\.venv\lib\site-packages (from jupyter-packaging) (2.1.0)
+Requirement already satisfied: packaging in d:\ai4science\.venv\lib\site-packages (from jupyter-packaging) (25.0)
+Requirement already satisfied: setuptools>=60.2.0 in d:\ai4science\.venv\lib\site-packages (from jupyter-packaging) (80.9.0)
+Requirement already satisfied: tomlkit in d:\ai4science\.venv\lib\site-packages (from jupyter-packaging) (0.13.3)
+Requirement already satisfied: wheel in d:\ai4science\.venv\lib\site-packages (from jupyter-packaging) (0.45.1)
